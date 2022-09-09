@@ -1,0 +1,14 @@
+.players[data-isdead=true] {
+  filter: blur(2px);
+  opacity: 0.61;
+}
+
+.players {
+  background: rgba(137,134,134,0.7);
+  padding: 30px;
+  border-radius: 10px;
+  min-width: 160px;
+  float: left;
+  margin: 10px;
+}
+
